@@ -26,9 +26,9 @@ I'm a **Computer Engineering** student and a **Full-Stack MERN Developer** who l
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar1470&layout=compact&theme=radical)
 
 ### 📫 Let's Connect:
-- **LinkedIn:** [linkedin.com/in/sagar-bist](https://linkedin.com/in/sagar-bist)
+- **LinkedIn:** [linkedin.com/in/sagar-bist](www.linkedin.com/in/sagarbista-dev)
 - **Email:** [sagar.bist@example.com](mailto:bistasagar090@gmail.com)
-- **Portfolio:** [sagarbist.dev](sagar-portfolio-seven-pearl.vercel.app) (if you have one)
+- **Portfolio:** [sagarbist.dev](https://sagar-portfolio-seven-pearl.vercel.app)
 
 
 ---
