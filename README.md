@@ -9,10 +9,9 @@ I'm a **Computer Engineering** student and a **Full-Stack MERN Developer** who l
 ---
 
 ### 🚀 What I'm Currently Working On:
-- 🛠️ Building a **Task Management App** with real-time updates (MERN + Socket.io)
+- 🛠️ Building a **Smart Agriculture IOT web app** with real-time updates (MERN + Socket.io)
 - 📱 Developing an **E-commerce Platform** with Stripe payment integration
 - 🐍 Deepening my Python skills for ML and Automation
-- ☁️ Learning AWS Services (EC2, S3, Lambda)
 
 ### 🛠️ Tech Stack & Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -28,13 +27,9 @@ I'm a **Computer Engineering** student and a **Full-Stack MERN Developer** who l
 
 ### 📫 Let's Connect:
 - **LinkedIn:** [linkedin.com/in/sagar-bist](https://linkedin.com/in/sagar-bist)
-- **Email:** [sagar.bist@example.com](mailto:sagar.bist@example.com)
-- **Portfolio:** [sagarbist.dev](https://sagarbist.dev) (if you have one)
+- **Email:** [sagar.bist@example.com](mailto:bistasagar090@gmail.com)
+- **Portfolio:** [sagarbist.dev](sagar-portfolio-seven-pearl.vercel.app) (if you have one)
 
-### ⚡ Fun Facts:
-- 🌍 I've traveled to 10+ countries and counting
-- ♟️ I'm an amateur chess player (rating ~1500 on chess.com)
-- ☕ I can't start my day without a cup of coffee
 
 ---
 ⭐️ From [sagar1470](https://github.com/sagar1470)
