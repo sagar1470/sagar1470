@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm a **Computer Engineering** student and a **Full-Stack MERN Developer** who loves building scalable web applications. Currently diving deep into **Machine Learning** and **Cloud Computing** to expand my skillset.
+I'm a **Computer Engineering** student and a **Full-Stack MERN Developer** who loves building scalable web applications. Currently diving deep into **Machine Learning** to expand my skillset.
 
 ![](https://komarev.com/ghpvc/?username=sagar1470&color=blueviolet)
 
