@@ -8,10 +8,10 @@ I'm a **Computer Engineering** student and a **Full-Stack MERN Developer** who l
 
 ---
 
-### 🚀 What I'm Currently Working On:
-- 🛠️ Building a **Smart Agriculture IOT web app** with real-time updates (MERN + Socket.io)
-- 📱 Developing an **E-commerce Platform** with Stripe payment integration
-- 🐍 Deepening my Python skills for ML and Automation
+###  What I'm Currently Working On:
+- Building a **Smart Agriculture IOT web app** with real-time updates (MERN + Socket.io)
+- Developing an **E-commerce Platform** with Stripe payment integration
+- Deepening my Python skills for ML and Automation
 
 ### 🛠️ Tech Stack & Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -26,9 +26,9 @@ I'm a **Computer Engineering** student and a **Full-Stack MERN Developer** who l
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar1470&layout=compact&theme=radical)
 
 ### 📫 Let's Connect:
-- **LinkedIn:** [linkedin.com/in/sagar-bist](www.linkedin.com/in/sagarbista-dev)
-- **Email:** [sagar.bist@example.com](mailto:bistasagar090@gmail.com)
-- **Portfolio:** [sagarbist.dev](https://sagar-portfolio-seven-pearl.vercel.app)
+- **LinkedIn:** [linkedin.com/in/sagar-bista](www.linkedin.com/in/sagarbista-dev)
+- **Email:** [bistasagar090@gmail.com](mailto:bistasagar090@gmail.com)
+- **Portfolio:** [sagarbista.dev](https://sagar-portfolio-seven-pearl.vercel.app)
 
 
 ---
